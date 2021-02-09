@@ -1,0 +1,31 @@
+{
+  "name": "p0_challenge_29-palindrome_angka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "reporters": [
+      "default",
+      "hacktiv8-reporter"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacktiv8/p0_challenge_29-palindrome_angka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hacktiv8/p0_challenge_29-palindrome_angka/issues"
+  },
+  "homepage": "https://github.com/hacktiv8/p0_challenge_29-palindrome_angka#readme",
+  "devDependencies": {
+    "hacktiv8-reporter": "^1.1.3",
+    "hacktiv8-restriction": "^1.0.7",
+    "jest": "^26.1.0"
+  }
+}
